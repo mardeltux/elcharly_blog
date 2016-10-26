@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-full
 title:  "Masa de harina integral para tarta"
 date:   2016-10-23 10:29:00 -0300
 categories: Receta comida

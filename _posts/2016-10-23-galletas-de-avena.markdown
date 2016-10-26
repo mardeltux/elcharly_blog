@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-full
 title:  "Galletas de avena"
 date:   2016-10-23 11:32:00 -0300
 categories: Receta comida
