@@ -1,8 +1,10 @@
 ---
+author: vicky
 layout: post-full
 title:  "Torta de canela y manzana"
 date:   2016-10-24 05:07:00 -0300
-categories: Receta comida
+categories: comida
+tags: receta
 ---
 
 Muy rica y aromatica por la canela y ademas, humeda por la manzana. Mmm

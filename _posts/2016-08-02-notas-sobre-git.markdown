@@ -1,8 +1,10 @@
 ---
+author: elcharly
 layout: post-full
 title:  "Notas sobre git"
 date:   2016-08-02 14:50:00 -0300
-categories: Software libre
+categories: desarrollo
+tags: software
 ---
 
 Para subir al repositorio:

@@ -1,8 +1,10 @@
 ---
+author: elcharly
 layout: post-full
 title:  "Entorno de desarrollo en el trabajo"
 date:   2016-08-02 15:35:00 -0300
-categories: Software Libre
+categories: desarrollo
+tags: software
 ---
 
 Logre generar mi entorno de desarrollo a duras penas en mi trabajo sobre un triste entorno llamado guindows.

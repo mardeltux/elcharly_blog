@@ -1,8 +1,10 @@
 ---
+author: elcharly
 layout: post-full
 title:  "Notas sobre mi .bashrc"
 date:   2016-08-02 15:05:00 -0300
-categories: Software Libre
+categories: desarrollo
+tags: linux
 ---
 
 Para levantar mi mongo:
