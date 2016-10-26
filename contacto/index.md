@@ -1,9 +1,8 @@
 ---
 layout: page-material-sidebar-right
-featimg: 6.jpg
-title: Page
+title: Contacto
 ---
-## This is a static page with a material sidebar on the right
+## Aca tengo que poner un formulariuo de contacto con un mapa de google.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
 
