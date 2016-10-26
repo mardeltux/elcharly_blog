@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-full
 title:  "Entorno de desarrollo en el trabajo"
 date:   2016-08-02 15:35:00 -0300
 categories: Software Libre
