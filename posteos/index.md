@@ -1,6 +1,6 @@
 ---
 layout: page-material-sidebar-right
-title: Archive
+title: Posteos
 ---
 #### by Month
 {% include monthly_archive.html %}
